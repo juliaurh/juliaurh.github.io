@@ -1,5 +1,15 @@
 ---
-title: "John Doe's Resume"
+title: "My Resume"
 ---
 
-Resume content.
+#Julia Urh
+###urhjm@appstate.edu
+
+Performance Experience          |                     |
+------------------------------- | ------------------- | -----------------------------
+A MIDSUMMER NIGHT'S DREAM       | Helena              | Appalachian State University
+THE WOLVES                      | #25                 | Appalachian State University
+THE IMPORTANCE OF BEING EARNEST | Lady Bracknell      | Union Academy Charter School
+ALICE IN WONDERLAND             | Queen of Hearts     | Union Academy Charter School
+THE LITTLE MERMAID              | Ursula              | Union Academy Charter School
+
