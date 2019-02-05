@@ -2,7 +2,7 @@ name: "my-website"
 output_dir: "."
 
 navbar:
-  title: "My Website"
+  title: "Julia's Website"
   left:
     - text: "Resume"
       href: resume.html
@@ -11,5 +11,5 @@ navbar:
 
 output:
   html_document:
-    theme: default
-    highlight: default
+    theme: paper
+    highlight: zenburn
