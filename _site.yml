@@ -8,8 +8,13 @@ navbar:
       href: resume.html
     - text: "Some Of My Work"
       href: SomeOfWork.html
+  right: 
+    - text: ""
+      icon: fa-github
+      href: https://github.com/juliaurh/juliaurh.github.io.git
+      
 
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
     highlight: zenburn
