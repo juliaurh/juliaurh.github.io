@@ -1,15 +1,15 @@
-name: "my-website"
+name: "Julia Urh"
 output_dir: "."
 
 navbar:
-  title: "Julia's Website"
+  title: "Julia Urh"
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "Some Of My Work"
+      href: SomeOfWork.html
 
 output:
   html_document:
-    theme: paper
+    theme: cerulean
     highlight: zenburn
