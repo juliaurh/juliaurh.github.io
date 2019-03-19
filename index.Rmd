@@ -6,8 +6,8 @@ Hi Hello!
 
 My name is Julia Urh. I am a theatre performance major at Appalachian State University in Boone, NC. I love the entire world of theatre, on stage and off. In a regular day, you can find me in the scenic shop building sets, working on my latest dramaturgy assignment, or doing character research for my role. I also love to travel and experience new things, but I never spend too long away from my kitten, Ollie. The pictures below are from my trip to China and Ollie
 
-![](https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/54728154_109531156883906_664918567291977728_n.jpg?_nc_cat=101&_nc_ht=scontent-mia3-2.xx&oh=959722e2569a0a625128c4171ca13075&oe=5D1F0636){width=30%}
-![](https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/53429967_109531163550572_1482582561224916992_n.jpg?_nc_cat=101&_nc_ht=scontent-mia3-2.xx&oh=ce8255f1cb5ccdb0da1cfbea66c99db1&oe=5D02D170){width=35%}
+<img src = "2018-08-03 10.02.55 2.jpg" width = 30%>
+<img src = "received_335797430289078.jpeg" width = 35%>
 
 
 Send me an email! urhjm@appstate.edu
